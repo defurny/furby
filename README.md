@@ -1,2 +1,14 @@
 # furby
-furby is a software used to test security.
+Furby is a software used to test security.
+
+# Changelog
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
